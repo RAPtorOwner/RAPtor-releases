@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Ready for the user's final buttons: version 0.2.0, Railway-ready cloud poster, checklist",
+  "pub_date": "2026-11-23T23:55:36Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcTEzY29pTHRxSU9sT0l4NkhSOGluS3ArTDNUcWhoWUlCS29TeWZUY3RhSXZHNGRWVy9NRmRVcVI1c0RRSGNOTE9tNjhiS0d3cVhDQkZpTTZubW52RGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc4MTIyCWZpbGU6UkFQdG9yXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMAp5Y25LaWdyWklLZkJnQk9lSWFEenp3K2ZLSVNmUzBRYVpxT2ZwS2w4NUZ3SEhscUVIL2VVTEd0VFVOZzEydnZOTEx3UWlYcXhpSEZpYlJIc2dJMXJEZz09Cg==",
+      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.0/RAPtor_0.2.0_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcTEzY29pTHRxSU9sT0l4NkhSOGluS3ArTDNUcWhoWUlCS29TeWZUY3RhSXZHNGRWVy9NRmRVcVI1c0RRSGNOTE9tNjhiS0d3cVhDQkZpTTZubW52RGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc4MTIyCWZpbGU6UkFQdG9yXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMAp5Y25LaWdyWklLZkJnQk9lSWFEenp3K2ZLSVNmUzBRYVpxT2ZwS2w4NUZ3SEhscUVIL2VVTEd0VFVOZzEydnZOTEx3UWlYcXhpSEZpYlJIc2dJMXJEZz09Cg==",
+      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.0/RAPtor_0.2.0_x64-setup.exe"
+    }
+  }
+}
