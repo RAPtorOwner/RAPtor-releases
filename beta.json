@@ -1,15 +1,15 @@
 {
-  "version": "0.2.10",
-  "notes": "RAPtor 0.2.10 (beta): player charts match Rolimons, full history every 30 min, fixed help texts",
-  "pub_date": "2026-11-26T22:16:06Z",
+  "version": "0.2.11",
+  "notes": "RAPtor 0.2.11 (beta): item charts use Rolimons' own RAP history, Rolimons tag pictures, good trade alerts, date picker stops at today",
+  "pub_date": "2026-11-27T09:59:59Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcXpqWDVYSUF1am1nQ3VyRjJRbERZUUVYcTFTTjBkeFF5em5OcVNtYkczamdHN2ZxcURVdEh4OXl0dzNpK3I5Ni9SbG5KYUFuVTRvQTBrWExabndXUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzMxMzUzCWZpbGU6UkFQdG9yXzAuMi4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEwClVOZ2xHWW81T2RHODFkUzl4SklpdmFtcGR6VWxlT2pDVVpybUhpdURBdCtoMk9QZUZOakUyTzVhdEl1Q2ZmanF5OVg0TDB6a1RCRjVCR1ZTMkhvdURBPT0K",
-      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.10/RAPtor_0.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcTEzL21HaG1zZy8xekxpU0Q2WUk0UDBuMmcyamFWR2wyTWk5WmxmcXZTVmNlWjMxMUV4emJlemRWcG1ydERDeHhiWkxlTzQyT2gxMStRV2d6S0FCQ3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzczNTg0CWZpbGU6UkFQdG9yXzAuMi4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjExCkZZb2dTeGhGTjA2QjVGdDhLemZhTEthRmIwdHF6RU5NUE92SlpVZ3RWUUNBM09SOWJob2VTZ09RMkF3dk1IVTlqNXloWjhQdHlrM3QzVm95cTkyMER3PT0K",
+      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.11/RAPtor_0.2.11_x64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcXpqWDVYSUF1am1nQ3VyRjJRbERZUUVYcTFTTjBkeFF5em5OcVNtYkczamdHN2ZxcURVdEh4OXl0dzNpK3I5Ni9SbG5KYUFuVTRvQTBrWExabndXUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzMxMzUzCWZpbGU6UkFQdG9yXzAuMi4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEwClVOZ2xHWW81T2RHODFkUzl4SklpdmFtcGR6VWxlT2pDVVpybUhpdURBdCtoMk9QZUZOakUyTzVhdEl1Q2ZmanF5OVg0TDB6a1RCRjVCR1ZTMkhvdURBPT0K",
-      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.10/RAPtor_0.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMUJ4d3RTbTdHcTEzL21HaG1zZy8xekxpU0Q2WUk0UDBuMmcyamFWR2wyTWk5WmxmcXZTVmNlWjMxMUV4emJlemRWcG1ydERDeHhiWkxlTzQyT2gxMStRV2d6S0FCQ3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzczNTg0CWZpbGU6UkFQdG9yXzAuMi4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjExCkZZb2dTeGhGTjA2QjVGdDhLemZhTEthRmIwdHF6RU5NUE92SlpVZ3RWUUNBM09SOWJob2VTZ09RMkF3dk1IVTlqNXloWjhQdHlrM3QzVm95cTkyMER3PT0K",
+      "url": "https://github.com/RAPtorOwner/RAPtor-releases/releases/download/v0.2.11/RAPtor_0.2.11_x64-setup.exe"
     }
   }
 }
