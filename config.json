@@ -1,6 +1,6 @@
 {
-  "min_version": "0.2.6",
-  "min_message": "Please update to RAPtor 0.2.6 to keep using it. It only takes a few seconds and keeps all your data.",
+  "min_version": "0.2.10",
+  "min_message": "Please update to RAPtor 0.2.10 to keep using it. It only takes a few seconds and keeps all your data.",
   "off": {},
   "notice": null
 }
